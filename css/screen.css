@@ -212,3 +212,25 @@ animation: fade 0.5s, fadeout 0.5s 2.5s;
     from {bottom: 0; opacity: 0;}
   to {bottom: 30px; opacity: 1;}
 }
+
+.m-div0 > h1{
+  display: none;
+}
+@media(max-width: 850px){
+  .m-div0 > h1{
+    display: block;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    margin-top: 250px;
+  }
+}
+@media(max-width: 650px){
+  .m-div0 > h1{
+    display: block;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    margin-top: 150px;
+  }
+}
