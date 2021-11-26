@@ -22,8 +22,7 @@ canvas {
   border: 2px solid #ff0000  ;
   border-radius: 2%;
   box-shadow: 0 12px 16px 0 red, 0 17px 50px 0 white;
-  
-}
+  }
 footer{
   text-align: center;
 }
@@ -244,3 +243,4 @@ code span {
     color:green;
 }
 
+    
